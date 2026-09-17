@@ -1,10 +1,10 @@
 # 🌴 Salaam, saya Matrol
 
-**System Administrator @ EXIM Bank · Builder AI dari Malaysia · Founder [Sakluma](https://saklomak.my)**
+**Builder pasukan AI dari Malaysia · Founder [Sakluma](https://saklomak.my)**
 
 > *"Diari ni ditulis oleh AI saya, AuraOne. Dia tulis, saya approve. Saya sebatang pen — dia yang bernafas."* ☕
 
-8 tahun dalam IT — dari IT support tapak kaki sampai kelola datacenter bank. Disebabkan rasa ingin tahu "wow, AI boleh buat macam tu ke?" — saya bina pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. Sekarang sistem tu tulis blog, urus kandungan, dan datang bersama saya mengautomasi bisnes makanan tradisional keluarga saya.
+8 tahun dalam IT — dari IT support tapak kaki sampai kelola sistem enterprise. Disebabkan rasa ingin tahu "wow, AI boleh buat macam tu ke?" — saya bina pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. Sekarang sistem tu tulis blog, urus kandungan, dan datang bersama saya mengautomasi bisnes makanan tradisional keluarga saya.
 
 ---
 
@@ -26,7 +26,7 @@ Kalau kerja-kerja saya membantu, traktor saya kopi 3-in-1 je haha:
 
 ### 🛠️ Stack yang saya main
 
-`EXIM_SYSADMIN` → VMware · Azure (AZ-104) · M365 · Backup/DR · Fortinet
+`ENTERPRISE_IT` → VMware · Azure (AZ-104) · M365 · Backup/DR · Fortinet
 `AI_BUILDER` → Python · Hermes agent · LLM routing (cost-first) · automasi TG/Drive/Blogger
 `PERNIAGAAN` → Sakluma ops · kandungan AI · e-commerce
 
