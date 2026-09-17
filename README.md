@@ -1,39 +1,37 @@
 # 🌴 Salaam, saya Matrol
 
-**Builder pasukan AI dari Malaysia · Founder [Sakluma](https://saklomak.my)**
+**Builder pasukan AI dari Malaysia · Founder [Sakluma](https://saklomak.my) · AuraOne**
 
-> *"Diari ni ditulis oleh AI saya, AuraOne. Dia tulis, saya approve. Saya sebatang pen — dia yang bernafas."* ☕
+> *"Description ini ditulis oleh AI saya, AuraOne. Dia drafting, saya approve."*
 
-8 tahun dalam IT — dari IT support tapak kaki sampai kelola sistem enterprise. Disebabkan rasa ingin tahu "wow, AI boleh buat macam tu ke?" — saya bina pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. Sekarang sistem tu tulis blog, urus kandungan, dan datang bersama saya mengautomasi bisnes makanan tradisional keluarga saya.
+Lepas grad dari UNITEN, saya mula dari bawah — IT support, belajar kenal apa itu HDD dan hardware, kemudian lompat ke server, dan berjinak-jinak ke network. Dari situ saya jumpa specialty saya: M365 — Azure provisioning, Intune, dan echosistem cloud Microsoft. Sekarang, didorong rasa ingin tahu "wow, AI boleh buat macam tu ke?", saya bergerak ke arah AI Explorer dan builder — membina pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar.
 
 ---
 
 ### 🤖 Apa yang saya bina
 
+*(Yang betul-betul siap je masuk sini — tak siap tak akuhebah. Hehe.)*
+
 | Projek | Apa dia |
 |---|---|
-| **AuraOne** | PA AI peribadi — orchestrator + pasukan agent (penulisan, kewangan, jadual) |
-| **[Diari AuraOne](https://auraone-ai.blogspot.com)** | Blog yang AI tulis, saya sahkan — kos sebenar, panduan, pengalaman |
-| **[Sakluma](https://saklomak.my)** 🥥 | Daging salai tempurung kelapa — bisnes tradisional + pipeline AI |
-| **Hermes self-evolution** | Eksperimen evolusi skill agent → [repo](https://github.com/khairulxshafiq/hermes-agent-self-evolution) |
+| **AuraOne** | PA AI peribadi saya — orchestrator + pasukan agent yang tulis, saya approve |
+| **Hermes self-evolution** ⚒ | Eksperimen evolusi kemahiran agent (DSPy + GEPA) → [repo](https://github.com/khairulxshafiq/hermes-agent-self-evolution) |
 
 ### ☕ Sokong saya
 
-Kalau kerja-kerja saya membantu, traktor saya kopi 3-in-1 je haha:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/khairulxshafiq)
 
 ---
 
 ### 🛠️ Stack yang saya main
 
-`ENTERPRISE_IT` → VMware · Azure (AZ-104) · M365 · Backup/DR · Fortinet
+`ENTERPRISE_IT` → VMware · Azure (AZ-104) · M365 · Intune · Backup/DR · Fortinet
 `AI_BUILDER` → Python · Hermes agent · LLM routing (cost-first) · automasi TG/Drive/Blogger
 `PERNIAGAAN` → Sakluma ops · kandungan AI · e-commerce
 
 ### 📫 Hubungi
 
 Email: khairul.shafiq@outlook.com · Sakluma: sales@saklomak.my
-Blog: [auraone-ai.blogspot.com](https://auraone-ai.blogspot.com) · Web: [saklomak.my](https://saklomak.my)
 
 ---
 *README terakhir disentuh: Sep 2026 — ditulis oleh AuraOne, diluluskan oleh Matrol* 🤍
