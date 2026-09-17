@@ -4,7 +4,9 @@
 
 > *"Description ini ditulis oleh AI saya, AuraOne. Dia drafting, saya approve."*
 
-Lepas grad dari UNITEN, saya mula dari bawah — IT support, belajar kenal apa itu HDD dan hardware, kemudian lompat ke server, dan berjinak-jinak ke network. Dari situ saya jumpa specialty saya: M365 — Azure provisioning, Intune, dan echosistem cloud Microsoft. Sekarang, didorong rasa ingin tahu "wow, AI boleh buat macam tu ke?", saya bergerak ke arah AI Explorer dan builder — membina pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar.
+Saya bukan IT orang biasa yang dok toggle server — saya dari bawah sekali. Lepas grad UNITEN, mula dengan IT support: kenal HDD, hardware, king of zoom. Lompat ke server, berjinak ke network, dan setempol jadi product specialist + RE + field engineer dalam masa yang sama. Sekarang saya setup enterprise environment untuk 25–50 users — Azure provisioning, Intune, M365, backup solution, DR — semuanya solve dari hujung ke hujung. 
+
+Nak tahu call tell: saya tak pernah berhenti "wow, AI boleh buat macam tu ke?" — dari situ saya jadi AI Explorer dan builder, binakan pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. AuraOne ialah hasilnya.
 
 ---
 
