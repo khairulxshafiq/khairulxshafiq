@@ -4,7 +4,7 @@
 
 > *"Description ini ditulis oleh AI saya, AuraOne. Dia drafting, saya approve."*
 
-Saya bukan IR yang cuma duduk depan dashboard — saya naik dari bawah. Lepas grad UNITEN, mula dengan IT support: pegang HDD, hardware, troubleshoot sampai paham selok-belok sistem. Lompat ke server, berjinak-jinak dengan network, kemudian jadi product specialist, RE, dan field engineer — semua dilalui satu-satu. Hari ini saya mampu setup enterprise environment untuk 25–50 users sepenuhnya: M365, Azure provisioning, Intune, backup & DR — end-to-end, bukan sekadar onboard user.
+Saya bukan IR yang cuma duduk depan dashboard — saya mula dari bawah. Lepas grad UNITEN, mula dengan IT support: pegang HDD, hardware, troubleshoot sampai paham selok-belok sistem. Lompat ke server, berjinak-jinak dengan network, kemudian jadi product specialist, RE, dan field engineer — semua dilalui satu-satu. Hari ini saya mampu setup enterprise environment untuk 25–50 users sepenuhnya: M365, Azure provisioning, Intune, backup & DR — end-to-end, bukan sekadar onboard user.
 
 Dan sejak mula rasa "wow, AI boleh buat macam tu ke?", saya tak berhenti lagi. Kini saya AI Explorer & AI Builder — binakan pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. AuraOne ialah hasilnya.
 
