@@ -21,7 +21,7 @@ Today I run my own AI stack. Not a chatbot wrapper. A real orchestrator with age
 | Project | What It Is |
 |---|---|
 | **TanAir Cloud** | Personal AI orchestration platform — agents that write, I approve → [tanair.my](https://tanair.my) |
-| **Ana.Latefa** | AI assistant handling business ops, market monitoring, content pipeline — built by one founder, for one founder |
+| **Ana.Latefa** | AI assistant handling business ops, market monitoring, content pipeline — built by one founder, for one founder → [blog](https://tanair-ai.blogspot.com) |
 | **Hermes self-evolution** ⚒ | Experiment in autonomous skill evolution (DSPy + GEPA) → [repo](https://github.com/khairulxshafiq/hermes-agent-self-evolution) |
 
 ### ☕ Support
