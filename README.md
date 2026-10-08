@@ -1,12 +1,12 @@
 # 🌴 Salaam, saya Matrol
 
-**Builder pasukan AI dari Malaysia · Founder [Sakluma](https://saklomak.my) · AuraOne**
+**Builder pasukan AI dari Malaysia · Founder [SaklomaK](https://saklomak.my) · [Tanair.my](https://tanair.my)**
 
-> *"Description ini ditulis oleh AI saya, AuraOne. Dia drafting, saya approve."*
+> *"Description ini ditulis oleh AI saya, Ana.Latefa. Dia drafting, saya approve."*
 
 Saya bukan IR yang cuma duduk depan dashboard — saya mula dari bawah. Lepas grad UNITEN, mula dengan IT support: pegang HDD, hardware, troubleshoot sampai paham selok-belok sistem. Lompat ke server, berjinak-jinak dengan network, kemudian jadi product specialist, RE, dan field engineer — semua dilalui satu-satu. Hari ini saya mampu setup enterprise environment untuk 25–50 users sepenuhnya: M365, Azure provisioning, Intune, backup & DR — end-to-end, bukan sekadar onboard user.
 
-Dan sejak mula rasa "wow, AI boleh buat macam tu ke?", saya tak berhenti lagi. Kini saya AI Explorer & AI Builder — binakan pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. AuraOne ialah hasilnya.
+Dan sejak mula rasa "wow, AI boleh buat macam tu ke?", saya tak berhenti lagi. Kini saya AI Explorer & AI Builder — binakan pasukan AI sendiri dari kosong, tanpa degree AI, tanpa bajet syarikat besar. [Tanair.my](https://tanair.my) ialah hasilnya.
 
 ---
 
@@ -16,7 +16,8 @@ Dan sejak mula rasa "wow, AI boleh buat macam tu ke?", saya tak berhenti lagi. K
 
 | Projek | Apa dia |
 |---|---|
-| **AuraOne** | PA AI peribadi saya — orchestrator + pasukan agent yang tulis, saya approve |
+| **TanAir Cloud** | PA AI peribadi saya — orchestrator + pasukan agent yang tulis, saya approve → [tanair.my](https://tanair.my) |
+| **Ana.Latefa** | AI assistant yang uruskan bisnes, saham, content — semua dari seorang founder |
 | **Hermes self-evolution** ⚒ | Eksperimen evolusi kemahiran agent (DSPy + GEPA) → [repo](https://github.com/khairulxshafiq/hermes-agent-self-evolution) |
 
 ### ☕ Sokong saya
@@ -29,11 +30,11 @@ Dan sejak mula rasa "wow, AI boleh buat macam tu ke?", saya tak berhenti lagi. K
 
 `ENTERPRISE_IT` → VMware · Azure (AZ-104) · M365 · Intune · Backup/DR · Fortinet
 `AI_BUILDER` → Python · Hermes agent · LLM routing (cost-first) · automasi TG/Drive/Blogger
-`PERNIAGAAN` → Sakluma ops · kandungan AI · e-commerce
+`PERNIAGAAN` → SaklomaK ops · kandungan AI · e-commerce
 
 ### 📫 Hubungi
 
-Email: khairul.shafiq@outlook.com · Sakluma: sales@saklomak.my
+Email: khairul.shafiq@outlook.com · SaklomaK: sales@saklomak.my
 
 ---
-*README terakhir disentuh: Sep 2026 — ditulis oleh AuraOne, diluluskan oleh Matrol* 🤍
+*README terakhir disentuh: Okt 2026 — ditulis oleh Ana.Latefa, diluluskan oleh Matrol* 🤍
