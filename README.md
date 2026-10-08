@@ -1,6 +1,6 @@
 # 🌴 Salaam, I'm Matrol
 
-**AI Builder from Malaysia · Founder [SaklomaK](https://saklomak.my) · [Tanair.my](https://tanair.my)**
+**AI Builder from Malaysia · Founder [Sakluma](https://saklomak.my) · [Tanair.my](https://tanair.my)**
 
 > *"This README was drafted by my AI, Ana.Latefa. I approve it."*
 
@@ -34,11 +34,11 @@ Today I run my own AI stack. Not a chatbot wrapper. A real orchestrator with age
 
 `AI_BUILDER` → Python · Hermes Agent · LLM routing (cost-first) · TG/Drive/Blogger automation
 `ENTERPRISE_IT` → VMware · Azure · M365 · Intune · Backup/DR · Fortinet
-`BUSINESS` → SaklomaK ops · AI-generated content · e-commerce
+`BUSINESS` → Sakluma ops · AI-generated content · e-commerce
 
 ### 📫 Contact
 
-Email: khairul.shafiq@outlook.com · SaklomaK: sales@saklomak.my
+Email: khairul.shafiq@outlook.com · Sakluma: sales@saklomak.my
 
 ---
 *README last updated: Oct 2026 — written by Ana.Latefa, approved by Matrol* 🤍
