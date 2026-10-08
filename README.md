@@ -38,7 +38,7 @@ Today I run my own AI stack. Not a chatbot wrapper. A real orchestrator with age
 
 ### 📫 Contact
 
-Email: khairul.shafiq@outlook.com · Sakluma: sales@saklomak.my · [LinkedIn](https://www.linkedin.com/in/khairulshafiq)
+Email: khairul.shafiq@outlook.com · [LinkedIn](https://www.linkedin.com/in/khairulshafiq)
 
 ---
 *README last updated: Oct 2026 — written by Ana.Latefa, approved by Matrol* 🤍
